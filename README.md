@@ -8,7 +8,7 @@
 
 喜欢做爬虫，闲下来的时候会学一些新东西
 
-![Metrics](https://metrics.lecoq.io/Euclid-Jie?template=classic&base=header%2C activity%2C community%2C repositories%2C metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Euclid-Jie?template=classic&base=header%2C )
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)
 
