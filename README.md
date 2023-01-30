@@ -10,8 +10,6 @@
 
 ![Metrics](https://metrics.lecoq.io/Euclid-Jie?template=classic&base=header%2C activity%2C community%2C repositories%2C metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
-
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)
 
 ![Euclid Jie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Euclid-Jie&theme=github-compact)
