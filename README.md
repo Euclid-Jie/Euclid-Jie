@@ -12,8 +12,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)
 
-![Euclid Jie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Euclid-Jie&theme=github-compact)
-
 
 
 
