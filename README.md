@@ -8,16 +8,13 @@
 
 喜欢做爬虫，闲下来的时候会学一些新东西
 
-```html
-![Metrics](https://metrics.lecoq.io/Euclid-Jie?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Euclid-Jie?template=classic&base=header%2C activity%2C community%2C repositories%2C metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
-```
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)](https://git.io/streak-stats)
 
-[![Euclid Jie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Euclid-Jie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)
 
-[
+![Euclid Jie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Euclid-Jie&theme=github-compact)
 
 
 
