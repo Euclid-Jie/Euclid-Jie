@@ -12,9 +12,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Euclid-Jie&theme=default)
 
-
-
-
-
-
-
+<center><figure><embed src="https://wakatime.com/share/@EuclidJie/52ce14f4-e0e8-4d39-9ea7-a0debf6e0e88.svg"></embed></figure></center>
