@@ -18,4 +18,4 @@
 
  
 
-<img src="https://wakatime.com/share/@EuclidJie/3ab0fd1d-5883-4694-9bb0-6060557f367d.svg" width="980" height="220"/>
+<img src="https://wakatime.com/share/@EuclidJie/3ab0fd1d-5883-4694-9bb0-6060557f367d.svg"/>
