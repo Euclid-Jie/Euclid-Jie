@@ -7,7 +7,7 @@
 
 [![Quant_Share](https://img.shields.io/badge/量化-QuantShare-black)](https://github.com/Euclid-Jie/Quant_Share)
 [![Guba](https://img.shields.io/badge/数据采集-东财股吧-red)](https://github.com/Euclid-Jie/Euclidguba-search)
-[![Weibo](https://img.shields.io/badge/数据采集-新浪微博-yellow)](https://github.com/Euclid-Jie/Euclidguba-search)
+[![Weibo](https://img.shields.io/badge/数据采集-新浪微博-yellow)](https://github.com/Euclid-Jie/Euclidweibo-search)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=euclid-jie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" width="500" height="150"/>
 
 本科金融学，研究生数据科学方向在读
