@@ -10,9 +10,9 @@
 [![Weibo](https://img.shields.io/badge/数据采集-新浪微博-yellow)](https://github.com/Euclid-Jie/Euclidweibo-search)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=euclid-jie&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" width="500" height="150"/>
 
-本科金融学，研究生数据科学方向在读
+2000生人，本科金融学，研究生应用统计(数据科学方向)
 
-目前在一家初创私募做实习，每天写代码和写代码
+2924年7月入职券商，做业务也写代码，爱好是写代码做研究
 
 喜欢做爬虫，闲下来的时候会学一些新东西
 
